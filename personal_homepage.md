@@ -1,0 +1,18 @@
+<table>
+    <tbody>
+           <td width="670">
+               <div id="toptitle">
+                   <h1>Wu Huikuan</h1><h1>
+                 </h1></div>
+                 <h3>Postgraduate Student</h3>
+                 <p>
+                     24 Zhaojun Road,<br>
+                     State Key Laboratory of Reproductive Regulation & Breeding of Grassland Livestock <br>
+                     Inner Mongolia University <br>
+                     Hohhot, CN 010021<br>
+                     <br>
+                     Email: wu_huikuan@outlook.com
+                 </p>
+           </td>
+           <td>
+               <img src="./wuhuikuan.jpg" border="0" width="240"><br>
