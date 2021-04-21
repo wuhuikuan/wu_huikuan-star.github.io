@@ -23,4 +23,4 @@
 
 <h2>Biography</h2>
 <p style="text-indent:2em">
-    I am a postgraduate student in <a href="https://sklab.imu.edu.cn/index.htm">State Key Laboratory of Reproductive Regulation & Breeding of Grassland Livestock</a>, <a href="
+    I am a postgraduate student in <a href="https://sklab.imu.edu.cn/index.htm">State Key Laboratory of Reproductive Regulation & Breeding of Grassland Livestock</a>, <a href="https://www.imu.edu.cn/index.htm">Inner Mongolia University</a>
