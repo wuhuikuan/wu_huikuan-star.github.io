@@ -10,6 +10,3 @@
                           </p>
     </div>
 </div>
-<style>.photo{float:left;width:50%;}<style>
-    
-<style>.intro{float:left;width:50%;}<style>
