@@ -1,5 +1,5 @@
 <div class="golf">
-    <div class="photo"><img src="./2333.jpg"></div>
+    <div class="photo"><img src="./2333.jpg" style="float:left"></div>
     <div class="intro">
         <h3>Optimization Research of Small Molecule Induced Mouse Somatic Cell Reprogramming Technology</h3>
         <p>ABSTRACT
@@ -19,4 +19,6 @@
         float:right;
         width:50%;
     }
-<style>
+</style>
+<div class="photo"></div>
+<div class="intro"></div>
