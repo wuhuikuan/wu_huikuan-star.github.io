@@ -1,3 +1,4 @@
+<table border="0" cellspacing="10" cellpadding="2">
 <div class="golf">
     <div class="photo"><img src="./2333.jpg" style="float:left"></div>
     <div class="intro">
