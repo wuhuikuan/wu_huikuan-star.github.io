@@ -37,3 +37,19 @@
         <div style="float:left; text-align:left">State Key Laboratory of Reproductive Regulation and Breeding of Grassland Livestock, Inner Mongolia University, Hohhot, CN</div> <div style="float:right; text-align:right">Sep. 2017 - Jun. 2020</div><br>Master of Biology<br>
         Advisor: <a href="https://pharmacy.ecust.edu.cn/2019/1023/c11493a99473/page.htm">Prof. Xia Wu</a><br>
     </li>
+</ul>
+       <br>
+       <h2 id="publication">Research Results</h2>
+       <table border="0" cellspacing="10" cellpadding="2">
+               <tr>
+                   <td valign="middle">
+                           <center>
+                                   <a href="./paper_1.md"><img src="./2333-1.jpg" alt="Link" width="200px" /></a>
+                       </center>
+               <br>
+               <br>
+                   </td>
+                   <td valign="middle">
+                           <a href="./paper_1.md">Optimization Research of Small Molecule Induced Mouse Somatic Cell Reprogramming Technology<br /></a> The first author, Master Dissertation.<br />
+                   </td>
+    </tr>
